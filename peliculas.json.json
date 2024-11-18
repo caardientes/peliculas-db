@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Avengers",
+    "año": "2012",
+    "genero": "Acción",
+    "imagen": "https://link_a_imagen_avengers.jpg",
+    "descripcion": "Los Vengadores se unen para salvar el mundo."
+  },
+  {
+    "titulo": "Titanic",
+    "año": "1997",
+    "genero": "Drama",
+    "imagen": "https://link_a_imagen_titanic.jpg",
+    "descripcion": "Tragedia épica del hundimiento del Titanic."
+  },
+  {
+    "titulo": "Inception",
+    "año": "2010",
+    "genero": "Ciencia ficción",
+    "imagen": "https://link_a_imagen_inception.jpg",
+    "descripcion": "Un ladrón de sueños cambia realidades."
+  }
+]
